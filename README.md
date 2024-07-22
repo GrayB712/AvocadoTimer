@@ -8,7 +8,7 @@
 
   ### About Avocado Timer
 
-  This is a running interval timer optimized for mobile devices. It was created in Unity using C#, and these are files for the HTML5 version.
+  This is an interval timer for running. It is optimized for mobile devices. It was created in Unity using C#, and these are the files for the HTML5 version.
 
   <br>
   <br>
